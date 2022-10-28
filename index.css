@@ -52,6 +52,10 @@ input{
     border:2px solid #B295FF ;
 }
 
+::placeholder {
+    color: white;
+}
+
 button{
     background-color: #FFFFFF;
     width: 117px;
