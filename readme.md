@@ -2,7 +2,7 @@
 
 ## Learnings
 1. How to set the color of the placeholder value
- ```html:
+ ```css:
 ::placeholder {
     color: white;
 }
