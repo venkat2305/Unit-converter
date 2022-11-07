@@ -11,13 +11,13 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Inter", sans-serif;
-  min-height: 100vh;
+  max-height: 100vh;
   background-color: #1c1c1c;
 }
 
 .container {
-  width: 550px;
-  height: 729px;
+  min-width: 550px;
+  min-height: 729px;
   /* border-radius: 15px; */
   /* overflow: hidden; */
 }
